@@ -1,19 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
-
-body  {
-  font-family: 'Josefin Sans', sans-serif;
-  text-align: center;
-}
-
-.button {
-    background-color: ghostwhite;
-  transition-property: margin-right, color;
+button:hover {
+  background-color: cornflowerblue;
+  color: ghostwhite;
   transition-duration: 2s;
 }
-
-
-.button:hover {
-  background-color: cornflowerblue;
-  
-}
-
