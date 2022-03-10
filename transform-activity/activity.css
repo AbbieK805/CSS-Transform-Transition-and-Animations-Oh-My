@@ -1,6 +1,5 @@
 main {
-        transform: rotateZ(-15deg);
-        font-size: larger;
+        transform: skew(-10deg) rotate(-15deg);
+       
 }  
-        
    
